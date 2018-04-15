@@ -1,0 +1,5 @@
+model_data/*.h5
+nb_images/*.mp4
+koreyoshi_copy.ipynb
+yolov3_jacobssy.ipynb
+yolov3_jacobssy.py
